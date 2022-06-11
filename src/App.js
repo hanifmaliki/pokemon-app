@@ -3,7 +3,7 @@ import Homepage from './views/Homepage'
 
 function App() {
   return (
-    <div>
+    <div style={{ height: '100%' }}>
       <Homepage />
     </div>
   )
